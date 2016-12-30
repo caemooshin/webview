@@ -17,6 +17,7 @@ import android.view.MenuItem;
  * item details are presented side-by-side with a list of items
  * in a {@link WebpageListActivity}.
  */
+//modify
 public class WebpageDetailActivity extends AppCompatActivity {
 
     @Override
